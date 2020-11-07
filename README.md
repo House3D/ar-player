@@ -1,2 +1,2 @@
 # ar-player
-AR Player and Store
+The issue tracker for House3D AR Player and Store app.
